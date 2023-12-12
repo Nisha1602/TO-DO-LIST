@@ -4,7 +4,7 @@ An easy-to-use to-do list tool that lets you mark and unmark things to indicate 
 
 
 ## View app at
-#### [Todo-List](https://salonee-jain.github.io/TodoList/)
+#### [Todo-List](Nisha1602/TO-DO-LIST)
 
 
 <hr />
