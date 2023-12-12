@@ -4,7 +4,7 @@ An easy-to-use to-do list tool that lets you mark and unmark things to indicate 
 
 
 ## View app at
-####([TO-DO-LIST](https://nisha1602.github.io/TO-DO-LIST/)
+#### [TO-DO-LIST](https://nisha1602.github.io/TO-DO-LIST/)
 
 
 <hr />
